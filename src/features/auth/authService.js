@@ -2,7 +2,7 @@ import axios from 'axios';
 
 //you can add full URL as API_URL or go to front end package.json and add proxy as url
 //for example http://localhost:5000
-const API_URL = 'http://localhost:8000/api/users/';
+const API_URL = 'https://goalsetter-application.onrender.com/api/users/';
 
 //Register user
 
