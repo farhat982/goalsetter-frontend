@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8000/api/goals/';
+const API_URL = 'https://goalsetter-application.onrender.com/api/goals/';
 
 //Create new goal
 
